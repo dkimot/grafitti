@@ -1,0 +1,14 @@
+{
+  "name": "doberman",
+  "version": "0.0.2",
+  "description": "A backend auth service designed to work with graffiti",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davis Kimoto",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^7.2.1"
+  }
+}
